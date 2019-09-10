@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+img.img-thumbnail{
+    position: relative;
+    
+}
+
+.thumbs{
+    text-align: center;
+    margin-left: 5%;
+}
+
+body{
+    background-color: black;
+}
+
+button{
+    margin: 2%;
+}
+
+
+.card-body{
+    margin-left: -5%;
+}
+
+.card{
+    margin-left: 25%;
+    width: 50%;
+    heigth: 50%;
+}
+
+*{
+
+
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+
+  
+
